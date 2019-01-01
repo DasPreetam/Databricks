@@ -1,0 +1,19 @@
+{
+	"NMI" : "1234567890",
+	"RegisterID" : "R123456789",
+	"MeterSerialNumber" : "SRL123456789",
+	"DirectionIndicator" : "I",
+	"CurrentQualityMethod" : "EST",
+	"CurrentReasonCode" : "XXX",
+	"UpDateTime" : "2017-02-04",
+	"UpdatedBy" : "XXXXXXXXXX",
+	"Approval Status" : "AP",
+	"IntervalLength" : 180,
+	"date" : "ISODate('2017-02-04T00:00:00.000Z')",
+	"days" : [
+		{
+			"date" : "ISODate('2017-02-04T00:00:00.000Z')",
+			"CurrentRegisterRead" : 509807
+		}
+	]
+}
